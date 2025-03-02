@@ -9,7 +9,6 @@ body {
   header {
     background-color: #ffcc00;
     height: 150px;
-    width: 100%;
   }
   
   aside {
@@ -28,7 +27,6 @@ body {
   footer {
     background-color: #e74c3c;
     height: 100px;
-    width: 100%;
   }
 
   main {
